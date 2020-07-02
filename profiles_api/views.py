@@ -40,3 +40,21 @@ class HelloApiView(APIView):
 
         else:
             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+    def put(self, request, pk=None):
+        """
+        Use to update object, we make a request and it will update the object
+        """
+        return Response({'method' : 'PUT'})
+
+    def patch(self, request, pk=None):
+        """
+        Handle partial update, such as only last name and first name
+        """
+        return Response({'method' : 'PATCH'})
+
+    def delete(self, request, pk=None):
+        """
+        Delete object
+        """
+        return Response({'method' : 'DELETE'})
