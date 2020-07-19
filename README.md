@@ -1,5 +1,7 @@
 # Django REST_API : Part 1/2
 
+## Done :
+
 * Creating and updating user profiles.
 * Login and authentication.
 * Posting status updates.
