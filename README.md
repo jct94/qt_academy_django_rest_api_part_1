@@ -1,7 +1,7 @@
 # Django REST_API : Part 1/2
 
-- [] ReactDash
-- [] Postgres DB
+- [ ] ReactDash
+- [ ] Postgres DB
 - [x] Self documentable
 
 ## Done :
