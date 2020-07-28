@@ -1,5 +1,9 @@
 # Django REST_API : Part 1/2
 
+- [] ReactDash
+- [] Postgres DB
+- [x] Self documentable
+
 ## Done :
 
 * Creating and updating user profiles.
