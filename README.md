@@ -3,6 +3,7 @@
 - [ ] ReactDash
 - [ ] Postgres DB
 - [x] Self documentable
+- [ ] Advanced options
 
 ## Done :
 
